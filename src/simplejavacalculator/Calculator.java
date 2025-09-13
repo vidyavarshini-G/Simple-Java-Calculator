@@ -16,7 +16,7 @@ import static java.lang.Math.log;
 import static java.lang.Math.log10;
 import static java.lang.Math.pow;
 
-public class Calculators {
+public class Calculatorsss {
 
     public enum BiOperatorModes {
         normal, add, minus, multiply, divide , xpowerofy 
